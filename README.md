@@ -1,0 +1,3 @@
+# Exercícios propostos: 
+
+## Exercício 1: Imprimir uma contagem regressiva de 100 até 0. <br><br> Exercício 2: Imprimir os valores pares entre 0 e 100. <br><br> Exercício 3: Calcular a soma dos múltiplos de 3 entre 0 e 100 <br><br> Exercício 4: Dados dois números, calcular o produto entre eles utilizando apenas soma, sem utilizar o operador de multiplicação. <br><br><br> +Desafio: Desenvolva um programa que imprima a sequência de Fibonacci até o número 1000. <br> A sequência deverá começar com: 1, 1, 2, 3, 5, 8, 13, 21... <br> e continuar até o maior valor da sequência que não ultrapasse 1000. <br><br> Objetivo: compreender como utilizar o for para controlar repetições e resolver problemas de programação de forma estruturada.
